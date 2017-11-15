@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    font-family: Georgia, serif;
+    text-align:center;
+    background-color: blue;
+}
+.error{
+    padding: 5px 0;
+    color: red;
+    border-radius: 4px;
+}
+button{
+    display: inline-block;
+    background: #666666;
+    color: #fff;
+    border-radius:3px;
+}
+input#country{
+
+}
+button,input#country{
+    border: 1px solid #444;
+    padding: 8px 1em;
+}
+h1{
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 8px 16px;
+}
+#controls, #result{
+    margin: 1em;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    color:white;
+}
+ul li{
+    margin-bottom: 8px;
+}
